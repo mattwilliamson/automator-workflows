@@ -9,4 +9,4 @@ These are some useful services than can be used within all OS X applications to 
 * Random SHA1
 * Random SHA512
 
-![Screenshot](http://dl.dropbox.com/u/14573179/Images/github/Automator-Workflows.png)
+![Screenshot](http://dl.dropbox.com/u/14573179/Github/Images/Automator-Workflows.png)

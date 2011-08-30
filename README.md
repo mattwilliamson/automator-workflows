@@ -8,5 +8,6 @@ These are some useful services than can be used within all OS X applications to 
 * New UUID4
 * Random SHA1
 * Random SHA512
+* Lorem Ipsum
 
 ![Screenshot](http://dl.dropbox.com/u/14573179/Github/Images/Automator-Workflows.png)

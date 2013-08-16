@@ -8,14 +8,10 @@
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>Lorem Ipsum</string>
+				<string>Clear All Terminal Tabs</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>
-			<key>NSReturnTypes</key>
-			<array>
-				<string>public.utf8-plain-text</string>
-			</array>
 		</dict>
 	</array>
 </dict>
